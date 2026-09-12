@@ -62,3 +62,46 @@ Run the task with:
 cd 4-print_hexa
 dotnet run
 ```
+
+## Task 5: 00...99
+
+`5-print_comb` prints the numbers from 00 through 99 in ascending order,
+separated by a comma and a space.
+
+Run the task with:
+
+```sh
+cd 5-print_comb
+dotnet run
+```
+
+## Task 6: Two-Digit Combinations
+
+`6-print_comb2` prints every unique ascending combination of two different
+digits, from `01` through `89`.
+
+Run the task with:
+
+```sh
+cd 6-print_comb2
+dotnet run
+```
+
+## Task 7: `islower`
+
+`7-islower` provides `Character.IsLower`, which checks whether a character is a
+lowercase ASCII letter.
+
+## Task 8: Print Last Digit
+
+`8-print_last_digit` provides `Number.PrintLastDigit`, which prints and returns
+the non-negative last digit of an integer.
+
+## Task 9: Add
+
+`9-add` provides `Number.Add`, which returns the sum of two integers.
+
+## Task 11: Print Diagonal
+
+`11-print_diagonal` provides `Line.PrintDiagonal`, which draws a diagonal using
+backslashes and prints a blank line when the requested length is not positive.

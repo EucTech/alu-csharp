@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Random rnd = new Random();
-        int number = rnd.Next(-10000, 10001);
+        Random rndm = new Random();
+        int number = rndm.Next(-10000, 10000);
         int lastDigit = number % 10;
 
         if (lastDigit > 5)
