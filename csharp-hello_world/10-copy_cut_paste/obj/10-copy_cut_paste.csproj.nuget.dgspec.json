@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj": {}
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj": {}
   },
   "projects": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj": {
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
+        "projectUniqueName": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
         "projectName": "10-copy_cut_paste",
-        "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
+        "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
         "packagesPath": "C:\\Users\\uebuk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\obj\\",
+        "outputPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

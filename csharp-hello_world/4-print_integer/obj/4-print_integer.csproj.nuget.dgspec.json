@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectUniqueName": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
         "projectName": "4-print_integer",
-        "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
         "packagesPath": "C:\\Users\\uebuk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\obj\\",
+        "outputPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\4-print_integer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

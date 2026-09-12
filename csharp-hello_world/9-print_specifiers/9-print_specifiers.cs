@@ -1,12 +1,12 @@
-﻿using System;
-
+using System;
 class Program
 {
     static void Main(string[] args)
     {
-        string str1 = "Street";
-        string str2 = "Mission";
-        int int1 = 972;
-        Console.WriteLine($"{int1} {str2} {str1}");
+        double percent = .7553;
+        double currency = 98765.4321;
+
+        Console.WriteLine("Percent: {0:P2}", percent);
+        Console.WriteLine("Currency: {0:C2}", currency);
     }
 }

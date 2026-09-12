@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj": {}
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj": {}
   },
   "projects": {
-    "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj": {
+    "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
+        "projectUniqueName": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
         "projectName": "5-print_float",
-        "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
+        "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
         "packagesPath": "C:\\Users\\uebuk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\obj\\",
+        "outputPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-hello_world\\5-print_float\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
