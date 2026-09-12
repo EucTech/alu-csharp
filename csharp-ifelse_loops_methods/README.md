@@ -101,7 +101,24 @@ the non-negative last digit of an integer.
 
 `9-add` provides `Number.Add`, which returns the sum of two integers.
 
+## Task 10: Print Line
+
+`10-print_line` provides `Line.PrintLine`, which prints a horizontal line of
+underscores or a blank line when the requested length is not positive.
+
 ## Task 11: Print Diagonal
 
 `11-print_diagonal` provides `Line.PrintDiagonal`, which draws a diagonal using
 backslashes and prints a blank line when the requested length is not positive.
+
+## Task 12: FizzBuzz
+
+`12-fizzbuzz` prints the numbers from 1 through 100, replacing multiples of 3
+with `Fizz`, multiples of 5 with `Buzz`, and multiples of both with `FizzBuzz`.
+
+Run the task with:
+
+```sh
+cd 12-fizzbuzz
+dotnet run
+```
