@@ -38,3 +38,27 @@ Run the task with:
 cd 2-print_alphabet
 dotnet run
 ```
+
+## Task 3: Print the Alphabet Except `q` and `e`
+
+`3-print_alphabt` prints the lowercase English alphabet except for `q` and `e`,
+using one loop and one call to `Console.Write`, without adding a trailing newline.
+
+Run the task with:
+
+```sh
+cd 3-print_alphabt
+dotnet run
+```
+
+## Task 4: Hexadecimal Printing
+
+`4-print_hexa` prints the numbers from 0 through 98 in decimal and lowercase
+hexadecimal using one loop and one call to `Console.Write`.
+
+Run the task with:
+
+```sh
+cd 4-print_hexa
+dotnet run
+```

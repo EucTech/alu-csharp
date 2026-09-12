@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Random rnd = new Random();
-        int number = rnd.Next(-10, 10);
+        int number = rnd.Next(-10, 11);
 
         if (number > 0)
             Console.WriteLine($"{number} is positive");
