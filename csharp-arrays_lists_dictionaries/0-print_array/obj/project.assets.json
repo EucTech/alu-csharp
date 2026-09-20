@@ -929,11 +929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectUniqueName": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "projectName": "0-print_array",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "packagesPath": "C:\\Users\\uebuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
+      "outputPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

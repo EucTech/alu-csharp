@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6pr0TtzclY=",
+  "dgSpecHash": "u1yHMPYSW/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+  "projectFilePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uebuk\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\uebuk\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
@@ -17,9 +17,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -29,9 +29,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -41,9 +41,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-3w5p-jhp5-c29q",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -53,9 +53,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5633-f33j-c6f7",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -65,9 +65,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -77,9 +77,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g5vf-38cp-4px9",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -89,9 +89,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vgwq-hfqc-58wv",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
@@ -101,9 +101,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
-      "projectPath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectPath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "filePath": "c:\\Users\\uebuk\\Documents\\C#_ASSIGNMENTS\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         "netcoreapp2.1"
