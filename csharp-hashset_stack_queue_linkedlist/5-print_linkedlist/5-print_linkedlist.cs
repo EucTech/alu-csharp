@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+
+class LList
+{
+    public static LinkedList<int> CreatePrint(int size)
+    {
+        LinkedList<int> list = new LinkedList<int>();
+
+        for (int i = 0; i < size; i++)
+        {
+            list.AddLast(i);
+            Console.WriteLine(i);
+        }
+
+        return list;
+    }
+}
