@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Represents a zombie enemy.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class with 0 health.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class with the specified health.</summary>
+            <param name="value">The starting health. Must be greater than or equal to 0.</param>
+            <exception cref="T:System.ArgumentException">Thrown when <paramref name="value"/> is less than 0.</exception>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>Gets or sets the name of the zombie.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>Gets the health of the zombie.</summary>
+            <returns>The current health value.</returns>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary>Returns a string that represents the current zombie.</summary>
+            <returns>A string containing the zombie's name and total health.</returns>
+        </member>
+    </members>
+</doc>
