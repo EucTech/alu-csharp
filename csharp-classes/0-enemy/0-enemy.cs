@@ -1,6 +1,6 @@
 namespace Enemies
 {
-    /// <summary>Defines a zombie.</summary>
+    /// <summary>Represents a zombie enemy.</summary>
     public class Zombie
     {
     }
