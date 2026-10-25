@@ -2,21 +2,21 @@ using System;
 
 namespace Enemies
 {
-    /// <summary>Defines a zombie.</summary>
+    /// <summary>Represents a zombie enemy.</summary>
     public class Zombie
     {
-        /// <summary>The zombie's health.</summary>
+        // Stores the health of the zombie.
         private int health;
 
-        /// <summary>Initializes a new Zombie with 0 health.</summary>
+        /// <summary>Initializes a new instance of the <see cref="Zombie"/> class with 0 health.</summary>
         public Zombie()
         {
             health = 0;
         }
 
-        /// <summary>Initializes a new Zombie with the given health.</summary>
-        /// <param name="value">The starting health; must be 0 or greater.</param>
-        /// <exception cref="ArgumentException">Thrown when value is less than 0.</exception>
+        /// <summary>Initializes a new instance of the <see cref="Zombie"/> class with the specified health.</summary>
+        /// <param name="value">The starting health. Must be greater than or equal to 0.</param>
+        /// <exception cref="ArgumentException">Thrown when <paramref name="value"/> is less than 0.</exception>
         public Zombie(int value)
         {
             if (value < 0)
@@ -24,8 +24,8 @@ namespace Enemies
             health = value;
         }
 
-        /// <summary>Returns the zombie's health.</summary>
-        /// <returns>The value of health.</returns>
+        /// <summary>Gets the health of the zombie.</summary>
+        /// <returns>The current health value.</returns>
         public int GetHealth()
         {
             return health;
